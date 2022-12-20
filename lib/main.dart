@@ -8,7 +8,7 @@ import 'EkranlarArasiGecis/KayanSayfalar/kayanSayfa.dart';
 void main() {
   runApp(MaterialApp(
       title: "Uygulama",
-      home: GIAnaSayfa()
+      home: AnaSayfa()
   ),
   );
 }
